@@ -1,2 +1,3 @@
 halo beranda : rog pc
+halo : rog pc
 halo : ilham pc
